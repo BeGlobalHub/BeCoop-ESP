@@ -299,6 +299,7 @@
 			<file href="./data/uhd/sprites/arrow.png"/>
 			<file href="./data/uhd/sprites/austral_banner_ESP.png"/>
 			<file href="./data/uhd/sprites/conetxt_1_ESP.png"/>
+			<file href="./data/uhd/sprites/credits_ESP_assets.png"/>
 			<file href="./data/uhd/sprites/credits_placeholder_ESP.png"/>
 			<file href="./data/uhd/sprites/Dialogue_Elena_6B_ESP.png"/>
 			<file href="./data/uhd/sprites/Dialogue_Lucho_5B_ESP.png"/>
@@ -323,6 +324,7 @@
 			<file href="./data/uhd/sprites/opinion_Elena_Analysis_ESP.png"/>
 			<file href="./data/uhd/sprites/opinion_fair_ESP.png"/>
 			<file href="./data/uhd/sprites/opinion_Ingrid_ESP.png"/>
+			<file href="./data/uhd/sprites/opinion_Juan_Fish_ESP.png"/>
 			<file href="./data/uhd/sprites/opinion_Rosa_Lucho_ESP.png"/>
 			<file href="./data/uhd/sprites/prompter_box.png"/>
 			<file href="./data/uhd/sprites/quiz_1_becoop_ESP.png"/>
